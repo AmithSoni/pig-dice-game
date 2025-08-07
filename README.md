@@ -2,7 +2,7 @@
 
 A fun and interactive two-player dice game built using HTML, CSS, and JavaScript. Players take turns rolling a dice and accumulate scores. The first to reach 100 wins!
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](PigGame.png)
 
 ## 🚀 Live Demo
 
@@ -30,7 +30,7 @@ A fun and interactive two-player dice game built using HTML, CSS, and JavaScript
 
 ## 📷 Screenshots
 
-![Screenshot](screenshot.png)
+![Screenshot](PigGameFinal.png)
 
 ---
 
