@@ -35,4 +35,23 @@ A fun and interactive two-player dice game built using HTML, CSS, and JavaScript
 ---
 
 ## 📁 Project Structure
+pig-dice-game/
+├── index.html
+├── style.css
+├── script.js
+└── images
+
+---
+
+## 🙌 Acknowledgements
+
+- Inspired by Jonas Schmedtmann’s JavaScript course.
+- Designed and developed by [Amith Soni](https://github.com/AmithSoni)
+
+---
+
+## 📬 Contact
+
+If you liked this project or want to collaborate, feel free to reach out on [GitHub](https://github.com/AmithSoni).
+
 
